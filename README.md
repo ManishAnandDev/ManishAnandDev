@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ManishAnandDevcddscsdc
 - 👀 I’m interested in writing exciting utils for the community.
-- 🌱 I’m currently learning blockchain related tech
-- 💞️ I’m looking to collaborate on anythig that is interesting.
 - 📫 You can reach me out here or on my  [LinkedIn profile](https://www.linkedin.com/in/manishanand94/)
 
 <!---
